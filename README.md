@@ -221,6 +221,10 @@ prior understanding of argumentative structure.
 
 ---
 
+## Colab notebook
+- `Colab notebook` — [View on Google Colab](https://colab.research.google.com/drive/1QAweRRa1ilM9Vdy58UvfPg5jPQtkDkRt?usp=sharing)
+
+
 ## Repository Contents
 
 - `planning.md` — label design, edge cases, data collection plan, AI tool plan
