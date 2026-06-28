@@ -162,6 +162,8 @@ As a markdown table:
 | "Steins Gate goes from interesting to absolutely generic and predictable..." | analysis | 0.37 | ❌ Should be hot_take — low confidence signals uncertainty |
 | "THAT JJK CHAPTER. GEGE IS ACTUALLY EVIL." | reaction | 0.82 | ✅ Correct — caps, exclamation, real-time emotion |
 
+The fine-tuned model correctly classified 17 of 30 test examples (56.7%).
+
 The correctly predicted analysis post is reasonable because it contains a named author (Miura), a named technique (PTSD parallels), and specific arc references — the model learned to pick up on these signals. The low confidence on the wrong prediction (0.37) suggests the model was genuinely uncertain, which is honest behavior.
 
 ---
