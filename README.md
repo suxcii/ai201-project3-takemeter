@@ -219,7 +219,7 @@ prior understanding of argumentative structure.
 
 ## Demo Video
 
-*[Link to demo video — to be added]*
+https://drive.google.com/file/d/16R64TqK9o9Z-V8xTppWBvwW8V_zzNcjw/view?usp=sharing
 
 ---
 
